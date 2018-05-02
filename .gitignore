@@ -1,0 +1,7 @@
+*.swp
+.DS_Store
+alfred-radio.alfredworkflow
+radio.zip
+radio/
+*.pyc
+
